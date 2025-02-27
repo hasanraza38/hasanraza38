@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanraza38" alt="hasanraza38" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **92hasanraza@gmail .com**
 
